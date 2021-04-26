@@ -1,0 +1,1 @@
+I made a package.json that holds my current resume details.
